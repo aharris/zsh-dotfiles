@@ -1,6 +1,8 @@
-cp ./.zshrc ~/.zshrc
-cp ./.aliases ~/.aliases
-cp ./.gitconfig ~/.gitconfig
+cp ~/dotfiles/.zshrc ~/.zshrc
+cp ~/dotfiles/.aliases ~/.aliases
+cp ~/dotfiles/.gitconfig ~/.gitconfig
+cp ~/dotfiles/.osx ~/.osx
 
-source ~/.zshrc
-source ~/.aliases
+
+[[ -f ~/.zshrc ]] && source ~/.zshrc
+[[ -f ~/.aliases ]] && source ~/.aliases

@@ -15,7 +15,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 ```
 
 
-3. Bootsrap dotfile
+3. Bootstrap dotfiles
 
 ```
 sh dotfiles/bootstrap.sh

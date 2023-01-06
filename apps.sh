@@ -9,6 +9,7 @@ brew install --cask dropbox
 brew install --cask postman
 brew install --cask visual-studio-code
 brew install --cask iterm2
+brew install --cask evernote
 
 brew cleanup
 

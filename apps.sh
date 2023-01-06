@@ -1,5 +1,6 @@
 brew update
 
+brew install --cask 1password
 brew install --cask firefox
 brew install --cask google-chrome
 brew install --cask sourcetree

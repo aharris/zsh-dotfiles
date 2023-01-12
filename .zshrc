@@ -107,6 +107,8 @@ export NVM_DIR="$HOME/.nvm"
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+. ~/.aliases
+
 # Key bindings
 bindkey "[C" forward-word
 bindkey "[D" backward-word
